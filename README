@@ -1,4 +1,4 @@
-foldernames:
+fldernames:
 xxyy
 xx= target language
 	en=English
@@ -10,3 +10,5 @@ yy= source language
 subfolders: smart.fm usernames
 
 csv lists in utf8-encoding
+lists created with http://en45masao.appspot.com/smartfm/listconv.html
+
