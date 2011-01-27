@@ -1,0 +1,12 @@
+foldernames:
+xxyy
+xx= target language
+	en=English
+	de=German
+	fr=Frensch
+	it=Italian
+yy= source language
+
+subfolders: smart.fm usernames
+
+csv lists in utf8-encoding
